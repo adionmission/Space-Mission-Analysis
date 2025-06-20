@@ -124,10 +124,6 @@ In the s (success) columns, if the value of mission success is 1 and the newly c
 
 ![Space Missions](space_missions.png)
 
-## Disclaimer
-
-If you are using this repository, acknowledging it is important.
-
 ## Acknowledgements
 
  - [Dataset](https://www.kaggle.com/datasets/rosetabares/spacemissionsflightstatus)
