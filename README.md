@@ -1,5 +1,9 @@
 # Space Mission Analysis
 
+![GitHub License](https://img.shields.io/github/license/adionmission/Space-Mission-Analysis)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Space-Mission-Analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/Space-Mission-Analysis)
+
 ![Space Missions](Images/space_missions.jpg)
 
 Analysis of space missions of various companies around the globe.
